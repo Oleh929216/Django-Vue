@@ -15,15 +15,15 @@ body {
 .dashboard-cards {
     border: none;
     text-align: center;
-    box-shadow: none;
+    box-shadow: none;    
     min-height: 1000px;
-    display: block;
+    display: block;    
     overflow: auto;
     width: 100%;
     margin: auto;
     padding-top: 40px;
 }
-
+    
 .row-cards {
     width: 70%;
     text-align: center;
@@ -31,7 +31,7 @@ body {
 }
 
 .row-title {
-    width: 70%;
+    width: 70%;  
     margin: auto;
     text-align: left;
 }
@@ -255,14 +255,14 @@ table {
 
 }
 
-.company-card p {
+.company-card p {          
     font-size: 12px !important;
 }
-
+              
 .company-card .card-content {
     min-height: 80px;
     word-wrap: break-word;
-}
+}  
 
 .company-card .card-content b {
     font-weight: normal;

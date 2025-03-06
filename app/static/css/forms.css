@@ -14,8 +14,8 @@ body {
 
 .form-container {
 	padding-top: 140px;
-	width: 70%;
-	margin: auto;
+	width: 70%;                
+	margin: auto;    
 }
 
 .form-user {
@@ -221,16 +221,16 @@ blockquote {
 	height: 100%;
 	margin: auto;
 	opacity: 0.98;
-}
+}      
 
-.img-portrait:hover {
+.img-portrait:hover {    
 	opacity: 0.8;
-	transform: scale(1.05);
+	transform: scale(1.05);          
 	transition-duration: 600ms;
 }
 
-.col-profile {
-	padding: 60px;
+.col-profile {   
+	padding: 60px; 
 }
 
 .col-profile h6 {
@@ -291,8 +291,8 @@ blockquote {
 	background: #003f67;
 }
 
-.label-checkbox {
-  font-size: 12px
+.label-checkbox {   
+  font-size: 12px     
 }
 
 
